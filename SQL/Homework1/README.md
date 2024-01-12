@@ -79,4 +79,8 @@ Sorgu :
 
 **ORDER BY film_id ASC**
 
+<<<<<<< HEAD
 ![Github](assets/answer5.png)
+=======
+![Github](assets/answer5.png)
+>>>>>>> 120b6c6bb097931e04c87e9eca347026553a7b1d
