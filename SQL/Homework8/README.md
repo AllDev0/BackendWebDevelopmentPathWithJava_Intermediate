@@ -1,6 +1,6 @@
 # Homework8
 
-Bu ödevde ![Mockaroo](https://www.mockaroo.com/) servis aracı sayesinde oluşturduğum fake veriler ile SQL programlama dili ile aşağıdaki işlemleri yaptım.
+Bu ödevde [Mockaroo](https://www.mockaroo.com/) servis aracı sayesinde oluşturduğum fake veriler ile SQL programlama dili ile aşağıdaki işlemleri yaptım.
 
 Oluşturduğum 50 satırlık veriye ulaşmak için [tıklayınız](assets/fake_employee_insertion_query.txt)
 
